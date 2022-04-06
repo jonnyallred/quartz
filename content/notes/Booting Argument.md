@@ -1,0 +1,25 @@
+---
+title: "Booting Argument"
+---
+So, I browsed through a fiery debate that raged through provopulse a year or so back about the legitimacy of booting to enforce parking regulations, and wanted to bring it up again to see if we could generate some useful ideas on whether it is or is not ethical, and if it is not, what some alternatives might be.
+So, here is why I think booting is unethical.
+Now, I realize enforcing regulations is usually a good thing.  I'm in full support of appropriate regulations, and I would sure like full benefit of a parking pass I pay for.  However, the model for businesses like University Parking Enforcement is what I question.  In my view, it abuses the leeway of City Ordinances in order to unethically take advantage of students in the Provo area.
+
+First, is the cost.  Typical city parking tickets cost about $10, whether a boot is included or not.  The city of Chicago charges $50 for parking in a blatant no parking zone, and only $25 for parking in a spot that doesn't belong to you.  And if you've ever been to downtown Chicago, you know that parking is much sparser than it is here.  The last time I checked, University Parking charged $60.  Is a parking spot here in Provo worth $60?  Isn't that a bit extreme of a cost, especially considering it's the maximum permissible by law to charge for a parking violation here in Provo?  Some may say that the high cost acts as a powerful deterrent, but when you consider the fact that many signs are occluded, and many regulatory times unclear, $60 seems like an awful lot to pay for inadvertent infractions, when deterrence isn't necessary.
+
+Second, is the inflexibility.  Employees of the company are paid solely on commission, meaning if they want money, they have to boot.  If there's a student who took his friend to go grocery shopping and parks his car in the empty lot by his complex to help him unload everything, the observing view faces a choice: boot, even though the offending car is obviously not restricting parking in the lot, but rather helping a tenant, or go earn his wages.  It's an unfair position he's put in--no one should have to choose what he knows is morally correct in conflict with his job.  Some may appeal to the technicality of the law, that the car is technically in offense and should be punished, but all laws need to allow flexibility to account for the complexities of real life. This is a primary role of the police officer: to use judgment in the enforcement of the law.  Police squads rightfully do not place officer pay solely dependent on the tickets they write.  Imagine if they did.  Imagine if there were cameras at every stop sign, making sure you stopped completely, not an inch after the line.  Laws exist to serve the people, and police are the first line of defense against the laws taking control.  Booters, on the other hand, are not afforded this privilege, and are compelled to enforce.  
+
+Third, is the lack of a decent appeals process.  The complexes say they have no control (a lie), and University Parking puts up so much red tape that legitimate complaints have no chance.  This is definitely the responsibility of the complexes, and should be addressed.
+
+Now, alternatives.
+
+First, I ask if complexes that employee these companies are allowed to set price regulations?  And if so, why don't they?  $60 is just plain exorbitant, not even mentioning the $120+ some places charge for towing.  
+
+Second, if the price must stay as an effective deterrent, what about a first time warning?  Of course, the booting company would never self-impose something like this, but could the complexes demand it?  I think so.  It wouldn't be hard to maintain a database of all cars warned and make this available to the booters.  The easiest way, I think, would be to go ahead and boot the car, and between the time the boots is placed and released, check the license plate against the record.  This would eliminate, I think, many innocent offenses.
+
+Third, what about the case of empty lots?  Do complexes really need to enforce when there are no cars in the lot?  There needs to be a stipulation in the system allowing for this.  Again, if booters weren't paid solely on commission, I think we would see less ridiculous enforcement.
+
+Finally, if University Parking wouldn't agree to any of this, would it be hard for the complex to regulate itself?  I mean, hiring someone to police the lots sounds like a good idea anyway considering the crime.  I wouldn't mind paying $10 extra a month for policed lots, which should more than cover the cost of hiring someone to do the job during the normal enforcement time (midnight to 9ish).  The above alternatives are all easier to implement when the complexes control the system, and would be much friendlier to the client.  Basically, rather than allow a company to harvest as much money as it can from their tenants, complex owners should have the tenants interests as their highest concern and employ much more beneficial measures.
+
+If it sounds like a good idea, lets do something about it.
+
