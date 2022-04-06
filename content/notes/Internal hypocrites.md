@@ -1,3 +1,11 @@
+---
+title: "internal hypocrites"
+tags:
+- example-tag
+enableToc: false # do not show a table of contents on this page
+---
+
+
 We come into self-awareness when we first perceive someone perceiving us. 
 > And when thou prayest, thou shalt not be as the hypocrites _are_: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.
 
