@@ -21,6 +21,6 @@ I want a solution that lets me take my content with me whereever I go and isn't 
 5. Support for both Markdown Links and Wikilinks
 
 ### Other Things I Tried
-- [Roam]([Roam Research – A note taking tool for networked thought.](https://roamresearch.com/)) - mind-opening program, especially how it automatically creates backlinks, creating a network of thought. But I hate how it forces you into a bulleted outline format. Most of my work is prose. Paragraphs are great.
-- [Notion]([Notion for Personal Use](https://www.notion.so/personal))- an excellent editor with built-in database features. But I don't like how it departed from markdown. It makes editing paragraphs and essays cumbersome. Great for notes, though.
-- [Onenote]([Microsoft OneNote Digital Note Taking App | Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)) - I've never found a better program for taking hand-drawn notes in. I hope Microsoft copies elements from these other tools.
+- [Roam](https://roamresearch.com/) - mind-opening program, especially how it automatically creates backlinks, creating a network of thought. But I hate how it forces you into a bulleted outline format. Most of my work is prose. Paragraphs are great.
+- [Notion](https://www.notion.so/personal)- an excellent editor with built-in database features. But I don't like how it departed from markdown. It makes editing paragraphs and essays cumbersome. Great for notes, though.
+- [Onenote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app) - I've never found a better program for taking hand-drawn notes in. I hope Microsoft copies elements from these other tools.
