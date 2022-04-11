@@ -11,6 +11,7 @@ Info on the [digital garden](https://jzhao.xyz/posts/networked-thought) concept.
 My notes are written in [markdown]([Markdown Guide](https://www.markdownguide.org/)), a simple plaintext way to add basic formatting like _itallics_ and **bold** without trapping your writing in a proprietary, cumbersome format like Microsoft's docx, or in something uneditable like PDF. I use [Obsidian]([Obsidian](https://obsidian.md/)) to write and organize my notes, and [Quartz](https://quartz.jzhao.xyz/) to publish it to github.io.   
 
 I want a solution that lets me take my content with me whereever I go and isn't too expensive to maintain ($20/mo is a lot to ask for something that's even simpler than a word processor). I think I'm getting close to finding an ideal solution.
+#intro
 
 ### Features of Quartz
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
