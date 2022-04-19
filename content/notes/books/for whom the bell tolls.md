@@ -1,3 +1,7 @@
+---
+title: "*For Whom the Bell Tolls*"
+---
+
 *For Whom the Bell Tolls* by Ernest Hemmingway.
 
 # Review
