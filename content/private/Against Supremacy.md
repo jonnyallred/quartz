@@ -1,7 +1,7 @@
 ---
 title: "Against Supremacy"
 ---
-# Against Supremacy
+
 Imagine there's a white interest group, to mirror the black and latino interest groups that many companies and organizations have. Such a group would predictably raise eyebrows, if not shouts and pitchforks. "White supremacy" would be the accusation. 
 But imagine if such an interest group wanted only to pursue the interest of whites in the same way black interest groups pursue the interests of blacks? "They are the majority--the entire organization is their interest group" they might say, but even so, why shouldn't they be allowed to organize and discuss it as such, if that's what's being assumed? 
 Imagine if such a group, being against white supremacy, had as it's first rule, 
