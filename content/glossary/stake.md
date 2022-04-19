@@ -1,0 +1,1 @@
+Stake - A group of 6-8 LDS congregations. There are usually a few stakes in a major city, or several dozen in areas with a high concentration of members of the LDS church.
